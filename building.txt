@@ -1,0 +1,6 @@
+{"timestamp":1526579928,count:23,"type":"enter"}
+{"timestamp":1526579982,count:4,"type":"exit"}
+{"timestamp":1526580054,count:15,"type":"exit"}
+{"timestamp":1526580128,count:12,"type":"enter"}
+{"timestamp":1526580382,count:1,"type":"exit"}
+
